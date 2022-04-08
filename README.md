@@ -2,6 +2,12 @@
 
 A Boxue Project By Flutter
 
+纯前端Flutter构建的Web前端网站。
+
+使用Dart语言进行跨平台构建
+
+可利用Flutter跨平台打包工具构建Android/iOS应用程序
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
